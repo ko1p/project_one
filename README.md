@@ -7,3 +7,4 @@
 ### Технологии: 
 - HTML;
 - CSS (flexbox);
+- BEM;
